@@ -1,4 +1,19 @@
-- role: Open Source Fellow
+- role: Explorer Fellow
   company: MLH Fellowship
-  dates: Summer 2020
+  dates: Spring 2021
   logo: fellowship.svg
+
+- role: UX Designer
+  company: MakeMyTrip Internship
+  dates: Spring 2021
+  logo: mmt.svg
+
+- role: Designer in Residence
+  company: 10kdesigners
+  dates: Summer 2020
+  logo: 10k.png
+
+- role: Frontend Developer Intern
+  company: PDFdoctor
+  dates: Summer 2020
+  logo: pdfdoc.png

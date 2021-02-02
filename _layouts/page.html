@@ -2,19 +2,24 @@
 layout: default
 ---
 
-<div class="banner">
+<div class="banner"
+style=
+"background-image: url({{page.hero}});
+background-size: cover;
+background-position: center;"
+>
     <div class="container">
         <div class="logo">
             <a href="{{ site.url }}">
-                <img src="{{ site.url }}/assets/img/logo.svg"/>
+                <img src="{{ site.url }}/assets/img/logo.svg" />
             </a>
         </div>
-        <div class="title">
+        <div class="title" >
             {{ page.title }}
         </div>
     </div>
 </div>
 
-<div class="container page">
+<div class="container page content">
     {{ content }}
 </div>
